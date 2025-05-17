@@ -14,7 +14,7 @@ I've been working in tech for about 10 years now and I'm ready for my own toolch
   - **Can hold my own in**: C, Bash, Python, SQL
   - **Also have coded a little in**: TypeScript, Assembly, C#
 - Tech:
-  - **Currenly obsessed with**: AWS, Unreal
+  - **Currenly obsessed with**: AWS, Kubernetes controller runtime, Unreal
 - Libraries/Frameworks:
   - **Used to be good in**: ImGui, GTK, gtkmm, Qt, ReactJS
   - **Can find what I need in**: boost libraries, folly, poco, protobufs, abseil, googletest, fmt, sqlite3, eve (Vectorization and SIMD), CompileTimeRegularExpression, ...
@@ -31,7 +31,7 @@ I've been working in tech for about 10 years now and I'm ready for my own toolch
   - **Toyed with**: AVR, AWS Iot
   - **Familiar with**: Raspberry Pi
 - Networking
-  - **Know my way around**: Mikrotik RouterOS, Linux Firewall
+  - **Know my way around**: Cloud Networking, Cisco, Hyprid Networking, Mikrotik RouterOS, Linux Firewall
   - **Used to know**: Cisco IOS, Microsoft Windows Server
   - **Some Exams I might be able to pass without studying**: ⚡Netwotk+, MTCNA, CCNA, LPIC1, LPIC2, ...
 - Learning:
