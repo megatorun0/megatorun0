@@ -33,7 +33,6 @@ I've been working in tech for about 10 years now and I'm ready for my own toolch
 - Networking
   - **Know my way around**: Cloud Networking, Cisco, Hyprid Networking, Mikrotik RouterOS, Linux Firewall
   - **Used to know**: Cisco IOS, Microsoft Windows Server
-  - **Some Exams I might be able to pass without studying**: ⚡Netwotk+, MTCNA, CCNA, LPIC1, LPIC2, ...
 - Learning:
   - AI/ML
 
